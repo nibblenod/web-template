@@ -1,0 +1,23 @@
+{
+  "name": "web-template",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nibblenod/web-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nibblenod/web-template/issues"
+  },
+  "homepage": "https://github.com/nibblenod/web-template#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.100.0",
+    "webpack-cli": "^6.0.1"
+  }
+}
